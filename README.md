@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Zuha 👋
 
-<!--
-**Zuz-zzy/zuz-zzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student | Currently learning to become a **Full Stack Developer (Python)**
 
-Here are some ideas to get you started:
+🚀 On a focused journey to go from fundamentals to job-ready. Learning in public and documenting everything here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **Currently learning:** Python, Data Structures & Algorithms, Git/GitHub
+
+🎯 **Long-term goal:** Full Stack Dev 
+
+📌 **What you'll find in my repos:**
+- `dsa-practice` — daily DSA problem solutions
+- `python-learning` — practice scripts as I learn Python fundamentals
+
+📫 **Connect with me:** [LinkedIn](www.linkedin.com/in/zuha-areej)
+
