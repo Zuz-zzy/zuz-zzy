@@ -12,5 +12,5 @@
 - `dsa-practice` — daily DSA problem solutions
 - `python-learning` — practice scripts as I learn Python fundamentals
 
-📫 **Connect with me:**www.linkedin.com/in/zuha-areej
+📫 **Connect with me:** www.linkedin.com/in/zuha-areej
 
